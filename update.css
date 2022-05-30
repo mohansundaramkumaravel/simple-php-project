@@ -1,0 +1,32 @@
+body{
+    padding: 0%;
+    margin: 0px;
+}
+
+.center{
+    width: 600px;
+    height: 600px;
+   background-color:red;
+   /* margin-left: 600px; */
+   border-radius: 10px;
+
+}
+.row{
+    
+    padding: 2%;
+}
+label{
+    font-size: 20px;
+    text-transform: capitalize;
+}
+#submit{
+    font-size: 25px;
+    width: 200px;
+    height: 50px;
+    margin-left:180px;
+}
+.back i{
+    font-size: 30px;
+    margin:4px;
+    padding: 20px;
+}
